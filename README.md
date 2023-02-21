@@ -5,6 +5,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jack41402&theme=tokyonight&count_private=true&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack41402&layout=compact&theme=tokyonight&hide_border=true&hide=html)
+
+[![Zerojudge Stats](https://zj-query-0.herokuapp.com/user?account=AccountName&name=jack41402)](https://github.com/jason810496/Zerojudge-stats)
 <!--
 **jack41402/jack41402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
