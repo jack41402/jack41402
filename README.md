@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack41402)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack41402&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!--
 **jack41402/jack41402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
